@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[2089],{4675:o=>{o.exports=JSON.parse('{"permalink":"/power-of-two","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Power of Two"}')}}]);

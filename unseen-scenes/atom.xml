@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kathy.works/unseen-scenes</id>
+    <title>Kathy's Blog Blog</title>
+    <updated>2022-01-28T05:33:21.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kathy.works/unseen-scenes"/>
+    <subtitle>Kathy's Blog Blog</subtitle>
+    <icon>https://kathy.works/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Street Signs]]></title>
+        <id>https://kathy.works/unseen-scenes/street-signs</id>
+        <link href="https://kathy.works/unseen-scenes/street-signs"/>
+        <updated>2022-01-28T05:33:21.000Z</updated>
+        <summary type="html"><![CDATA[The street signs in Hong Kong — as compact as they tend to be in size — subtly pack a lot of useful information.]]></summary>
+        <content type="html"><![CDATA[<p>The street signs in Hong Kong — as compact as they tend to be in size — subtly pack a lot of useful information.</p><p><img loading="lazy" alt="alt text" src="/assets/images/street_signs-bdfa800cc152a3d20c1a84b76f65c23d.jpg" width="1920" height="1273" class="img_ev3q"></p><small>[Kingston Street, Causeway Bay, 2022]</small><br><br><p>Take this one in the picture. The straight edge on the left of the sign tells us that there is no more building further down the left, indicating that the street begins right there.</p><p>Meanwhile, the pointy edge on the right says there are more buildings or dwellings toward that direction. More specifically, <!-- -->#<!-- -->9 to <!-- -->#<!-- -->11, as printed on the sign as well.</p><p>One could then speculate that the opposite side of the street (where I was standing at the time) houses the even-numbered premises. That is exactly the case here.</p><p>-<!-- -->-<!-- -->-<!-- -->-<!-- -->-<!-- -->-<!-- -->-<!-- -->-<!-- -->-<!-- -->-</p><p>Source: My own observation</p><p>Camera: Rollei 35 S</p><p>Film: Fujifilm Superia X-TRA 400 (expired in April, 2018)</p>]]></content>
+        <category label="hong kong" term="hong kong"/>
+        <category label="signage" term="signage"/>
+    </entry>
+</feed>

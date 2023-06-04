@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkathy_life=self.webpackChunkkathy_life||[]).push([[5991],{3885:e=>{e.exports=JSON.parse('{"permalink":"/","page":1,"postsPerPage":10,"totalPages":3,"totalCount":25,"nextPage":"/page/2","blogDescription":"Kathy builds","blogTitle":"Blog Home"}')}}]);

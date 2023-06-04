@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kathy.works/power-of-two</id>
+    <title>Kathy's Blog Blog</title>
+    <updated>2023-04-11T14:33:21.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kathy.works/power-of-two"/>
+    <subtitle>Kathy's Blog Blog</subtitle>
+    <icon>https://kathy.works/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Chapter 1]]></title>
+        <id>https://kathy.works/power-of-two/chapter-1</id>
+        <link href="https://kathy.works/power-of-two/chapter-1"/>
+        <updated>2023-04-11T14:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Coming soon]]></summary>
+        <content type="html"><![CDATA[<p>Coming soon</p>]]></content>
+    </entry>
+</feed>

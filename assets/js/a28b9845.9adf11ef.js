@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[3768],{6339:s=>{s.exports=JSON.parse('{"permalink":"/tags/hong-kong","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Kathy builds","blogTitle":"Blog"}')}}]);

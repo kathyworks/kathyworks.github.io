@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[2218],{5662:a=>{a.exports=JSON.parse('{"label":"hong kong","permalink":"/tags/hong-kong","allTagsPath":"/tags","count":1}')}}]);

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Kathy's Blog Blog</title>
+        <link>https://kathy.works/unseen-scenes</link>
+        <description>Kathy's Blog Blog</description>
+        <lastBuildDate>Fri, 28 Jan 2022 05:33:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Street Signs]]></title>
+            <link>https://kathy.works/unseen-scenes/street-signs</link>
+            <guid>https://kathy.works/unseen-scenes/street-signs</guid>
+            <pubDate>Fri, 28 Jan 2022 05:33:21 GMT</pubDate>
+            <description><![CDATA[The street signs in Hong Kong — as compact as they tend to be in size — subtly pack a lot of useful information.]]></description>
+            <content:encoded><![CDATA[<p>The street signs in Hong Kong — as compact as they tend to be in size — subtly pack a lot of useful information.</p><p><img loading="lazy" alt="alt text" src="/assets/images/street_signs-bdfa800cc152a3d20c1a84b76f65c23d.jpg" width="1920" height="1273" class="img_ev3q"></p><small>[Kingston Street, Causeway Bay, 2022]</small><br><br><p>Take this one in the picture. The straight edge on the left of the sign tells us that there is no more building further down the left, indicating that the street begins right there.</p><p>Meanwhile, the pointy edge on the right says there are more buildings or dwellings toward that direction. More specifically, <!-- -->#<!-- -->9 to <!-- -->#<!-- -->11, as printed on the sign as well.</p><p>One could then speculate that the opposite side of the street (where I was standing at the time) houses the even-numbered premises. That is exactly the case here.</p><p>-<!-- -->-<!-- -->-<!-- -->-<!-- -->-<!-- -->-<!-- -->-<!-- -->-<!-- -->-<!-- -->-</p><p>Source: My own observation</p><p>Camera: Rollei 35 S</p><p>Film: Fujifilm Superia X-TRA 400 (expired in April, 2018)</p>]]></content:encoded>
+            <category>hong kong</category>
+            <category>signage</category>
+        </item>
+    </channel>
+</rss>

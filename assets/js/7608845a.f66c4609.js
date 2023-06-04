@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[5713],{6357:a=>{a.exports=JSON.parse('{"label":"final static","permalink":"/tags/final-static","allTagsPath":"/tags","count":6}')}}]);

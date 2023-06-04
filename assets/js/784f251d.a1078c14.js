@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[4075],{4927:e=>{e.exports=JSON.parse('{"title":"All posts","items":[{"title":"Chapter 1","permalink":"/power-of-two/chapter-1"}]}')}}]);

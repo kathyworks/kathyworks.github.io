@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[4343],{3992:a=>{a.exports=JSON.parse('{"label":"zero and won","permalink":"/tags/zero-and-won","allTagsPath":"/tags","count":1}')}}]);

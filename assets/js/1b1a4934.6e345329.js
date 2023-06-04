@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[481],{5790:e=>{e.exports=JSON.parse('{"permalink":"/haiku","page":1,"postsPerPage":10,"totalPages":3,"totalCount":27,"nextPage":"/haiku/page/2","blogDescription":"Blog","blogTitle":"Haiku"}')}}]);
