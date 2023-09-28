@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Kathy's Blog Blog</title>
+        <link>https://kathy.works/microblog</link>
+        <description>Kathy's Blog Blog</description>
+        <lastBuildDate>Tue, 12 Oct 2021 03:33:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Milkweed]]></title>
+            <link>https://kathy.works/microblog/milkweed</link>
+            <guid>https://kathy.works/microblog/milkweed</guid>
+            <pubDate>Tue, 12 Oct 2021 03:33:21 GMT</pubDate>
+            <description><![CDATA[Most milkweed flowers are poisonous to humans and pets, but at the same time can be a great nectar source for pollinators like butterflies and honeybees — \if\ they don't get trapped inside and die.]]></description>
+            <content:encoded><![CDATA[<p>Most milkweed flowers are poisonous to humans and pets, but at the same time can be a great nectar source for pollinators like butterflies and honeybees — <!-- -->*<!-- -->if<!-- -->*<!-- --> they don't get trapped inside and die.</p><p>Be yourself, and the right people will come by at some point or another. Those who are not meant to be in your life are simply that.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Exit]]></title>
+            <link>https://kathy.works/microblog/exit</link>
+            <guid>https://kathy.works/microblog/exit</guid>
+            <pubDate>Fri, 10 Sep 2021 23:03:21 GMT</pubDate>
+            <description><![CDATA[Getting a rejection is like taking an early exit on the freeway.]]></description>
+            <content:encoded><![CDATA[<p>Getting a rejection is like taking an early exit on the freeway.</p><p>You are not necessarily changing your destination; perhaps you are just taking a different route to get there.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[History]]></title>
+            <link>https://kathy.works/microblog/history</link>
+            <guid>https://kathy.works/microblog/history</guid>
+            <pubDate>Sun, 13 Dec 2020 03:33:21 GMT</pubDate>
+            <description><![CDATA[History has repeatedly told us not to repeat it.]]></description>
+            <content:encoded><![CDATA[<p>History has repeatedly told us not to repeat it.</p><p>We have been historically terrible at learning from what history tells us.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Drones]]></title>
+            <link>https://kathy.works/microblog/drones</link>
+            <guid>https://kathy.works/microblog/drones</guid>
+            <pubDate>Wed, 25 Mar 2020 04:04:21 GMT</pubDate>
+            <description><![CDATA[Sometimes we are like drones. Bringing others down won't make you fly higher.]]></description>
+            <content:encoded><![CDATA[<p>Sometimes we are like drones. Bringing others down won't make you fly higher.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Level Up]]></title>
+            <link>https://kathy.works/microblog/level-up</link>
+            <guid>https://kathy.works/microblog/level-up</guid>
+            <pubDate>Wed, 25 Mar 2020 02:55:21 GMT</pubDate>
+            <description><![CDATA[We will have leveled up when this is all over.]]></description>
+            <content:encoded><![CDATA[<p>We will have leveled up when this is all over.</p><p>It's more than just an involuntary lockdown. Think of this period of trying times as a secret training camp — from which we will emerge stronger, more intelligent, more compassionate, and with slightly longer hair.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

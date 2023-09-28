@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[179],{1087:a=>{a.exports=JSON.parse('{"label":"signage","permalink":"/tags/signage","allTagsPath":"/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[8249],{5595:t=>{t.exports=JSON.parse('{"permalink":"/tags/final-static","page":1,"postsPerPage":10,"totalPages":1,"totalCount":6,"blogDescription":"Kathy builds","blogTitle":"Blog"}')}}]);
