@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kathy.works/microblog</id>
     <title>Kathy's Blog Blog</title>
-    <updated>2021-10-12T03:33:21.000Z</updated>
+    <updated>2023-12-29T06:33:21.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kathy.works/microblog"/>
     <subtitle>Kathy's Blog Blog</subtitle>
     <icon>https://kathy.works/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Synthetic Brain]]></title>
+        <id>https://kathy.works/microblog/synthetic-brain</id>
+        <link href="https://kathy.works/microblog/synthetic-brain"/>
+        <updated>2023-12-29T06:33:21.000Z</updated>
+        <summary type="html"><![CDATA[One 2024 project that I am exceedingly excited about: Building our own synthetic brain A.I.]]></summary>
+        <content type="html"><![CDATA[<p>One 2024 project that I am exceedingly excited about: Building our own synthetic brain A.I.</p><p>It's an original type of A.I. that aims to mimic the thinking processes of the human brain, while boasting exponentially more computing power.</p><p>Identifying personalized medical solutions, creating brand new sustainable materials, solving cold cases — these are just a few examples of its potential use.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Milkweed]]></title>
         <id>https://kathy.works/microblog/milkweed</id>

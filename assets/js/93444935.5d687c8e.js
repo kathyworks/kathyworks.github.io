@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[7445],{743:o=>{o.exports=JSON.parse('{"permalink":"/microblog","page":1,"postsPerPage":100,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Microblog"}')}}]);

@@ -4,10 +4,18 @@
         <title>Kathy's Blog Blog</title>
         <link>https://kathy.works/microblog</link>
         <description>Kathy's Blog Blog</description>
-        <lastBuildDate>Tue, 12 Oct 2021 03:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 06:33:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Synthetic Brain]]></title>
+            <link>https://kathy.works/microblog/synthetic-brain</link>
+            <guid>https://kathy.works/microblog/synthetic-brain</guid>
+            <pubDate>Fri, 29 Dec 2023 06:33:21 GMT</pubDate>
+            <description><![CDATA[One 2024 project that I am exceedingly excited about: Building our own synthetic brain A.I.]]></description>
+            <content:encoded><![CDATA[<p>One 2024 project that I am exceedingly excited about: Building our own synthetic brain A.I.</p><p>It's an original type of A.I. that aims to mimic the thinking processes of the human brain, while boasting exponentially more computing power.</p><p>Identifying personalized medical solutions, creating brand new sustainable materials, solving cold cases — these are just a few examples of its potential use.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Milkweed]]></title>
             <link>https://kathy.works/microblog/milkweed</link>
