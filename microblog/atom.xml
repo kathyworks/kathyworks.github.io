@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kathy.works/microblog</id>
     <title>Kathy's Blog Blog</title>
-    <updated>2023-12-29T06:33:21.000Z</updated>
+    <updated>2024-01-12T06:33:21.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kathy.works/microblog"/>
     <subtitle>Kathy's Blog Blog</subtitle>
     <icon>https://kathy.works/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Super-boosting Humanity]]></title>
+        <id>https://kathy.works/microblog/super-boosting-humanity</id>
+        <link href="https://kathy.works/microblog/super-boosting-humanity"/>
+        <updated>2024-01-12T06:33:21.000Z</updated>
+        <summary type="html"><![CDATA[i. First Agricultural Revolution (circa 10,000 BC)]]></summary>
+        <content type="html"><![CDATA[<p>i. First Agricultural Revolution (circa 10,000 BC)
+ii. First Industrial Revolution (circa 1760)
+iii. Digital Revolution (as early as the 1940s)
+iv. Connectivity Revolution (1990s)
+v. AI Revolution (2020s)</p><p>Absolutely mind-blowing how it only took a matter of decades for us to get from iv to v, or even iii to v.</p><p>In gaming terms, it's as if humanity is on a super-boost power-up.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synthetic Brain]]></title>
         <id>https://kathy.works/microblog/synthetic-brain</id>
