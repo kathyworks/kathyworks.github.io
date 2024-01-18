@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kathy.works/microblog</id>
     <title>Kathy's Blog Blog</title>
-    <updated>2024-01-12T06:33:21.000Z</updated>
+    <updated>2024-01-19T00:33:21.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kathy.works/microblog"/>
     <subtitle>Kathy's Blog Blog</subtitle>
     <icon>https://kathy.works/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Any Day Now]]></title>
+        <id>https://kathy.works/microblog/any-day-now</id>
+        <link href="https://kathy.works/microblog/any-day-now"/>
+        <updated>2024-01-19T00:33:21.000Z</updated>
+        <summary type="html"><![CDATA[One sleep closer to launching a new brain. We could be talking just a matter of days here!]]></summary>
+        <content type="html"><![CDATA[<p>One sleep closer to launching a new brain. We could be talking just a matter of days here!</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Super-boosting Humanity]]></title>
         <id>https://kathy.works/microblog/super-boosting-humanity</id>
