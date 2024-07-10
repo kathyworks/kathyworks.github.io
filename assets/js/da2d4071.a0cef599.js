@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[5277],{1546:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"micro-blog"}')}}]);
