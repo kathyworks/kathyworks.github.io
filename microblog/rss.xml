@@ -4,10 +4,18 @@
         <title>Kathy's Blog Blog</title>
         <link>https://kathy.works/microblog</link>
         <description>Kathy's Blog Blog</description>
-        <lastBuildDate>Fri, 19 Jan 2024 00:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 21:40:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Web 3.14]]></title>
+            <link>https://kathy.works/microblog/web-pi</link>
+            <guid>https://kathy.works/microblog/web-pi</guid>
+            <pubDate>Sun, 14 Jul 2024 21:40:21 GMT</pubDate>
+            <description><![CDATA[Web 3.0 has grown into Web 3.14 — an upgraded iteration of the World Wide Web which incorporates personalized AI, where you keep and control your own data.]]></description>
+            <content:encoded><![CDATA[<p>Web 3.0 has grown into Web 3.14 — an upgraded iteration of the World Wide Web which incorporates personalized AI, where you keep and control your own data.</p><p>Whitepapers are in the works.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Any Day Now]]></title>
             <link>https://kathy.works/microblog/any-day-now</link>
