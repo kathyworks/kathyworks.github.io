@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kathy.works/</id>
     <title>Kathy's Blog Blog</title>
-    <updated>2024-01-24T22:39:21.000Z</updated>
+    <updated>2024-07-28T11:55:21.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kathy.works/"/>
     <subtitle>Kathy's Blog Blog</subtitle>
     <icon>https://kathy.works/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Work Journal #1]]></title>
+        <id>https://kathy.works/work-journal-1</id>
+        <link href="https://kathy.works/work-journal-1"/>
+        <updated>2024-07-28T11:55:21.000Z</updated>
+        <summary type="html"><![CDATA[A mildly productive day considering it's a Sunday.]]></summary>
+        <content type="html"><![CDATA[<small>A mildly productive day considering it's a Sunday.</small><hr><p>I am starting this new "Work Journal" series as a way to have regular open stand-ups of sorts, only they will be in written format.</p><p>I imagine these posts will be profoundly helpful when I someday want to look back on what I did on a particular day. And by definition, this is what journals are meant to do.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="builddollar-project">Builddollar Project<a href="#builddollar-project" class="hash-link" aria-label="Direct link to Builddollar Project" title="Direct link to Builddollar Project">​</a></h2><p>Recently I came up with a new type of digital currency which I'm calling "generative currency" — for categorizing purposes. Project-wise, I am naming the project <b>Builddollar</b>.</p><p>As with almost all of my projects, I went ahead and bought a domain for it. I'll publish it as soon as the initial edition of the website goes live, because right now the domain will just serve a broken link.</p><p>Financially, I plan on applying for a fintech grant to support the prototype development. For said application, I am in the process of preparing a pitch deck.</p><p>Today saw me drafting up the executive summary. Many more edits to come.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="client-project">Client Project<a href="#client-project" class="hash-link" aria-label="Direct link to Client Project" title="Direct link to Client Project">​</a></h2><p>A little bit of progress made. What I like about this full-stack MERN project is that I'll get to work on so many spin-offs when it's done.</p><p>But first, deliverables.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="worlds-largest-gesture-controlled-computer-vlogumentary">World's Largest Gesture-Controlled Computer (Vlogumentary)<a href="#worlds-largest-gesture-controlled-computer-vlogumentary" class="hash-link" aria-label="Direct link to World's Largest Gesture-Controlled Computer (Vlogumentary)" title="Direct link to World's Largest Gesture-Controlled Computer (Vlogumentary)">​</a></h2><p>Last month our team launched the first version of an immersive system. I am dubbing it the "World's Largest Gesture-Controlled Computer," and am in the middle of producing a vlogumentary for it.</p><p>All the planned footage has either been shot or gathered. As per usual with vlogging, it's the video editing part that has yet to be finished.</p><p>I managed to edit a teensy little bit of the vlog (approximately the first 10 seconds of it, I think). Because this is such a low priority thing on my plate, I am reluctant to give even a rough estimate as to when the final product will go out.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="3x3-cubing">3x3 Cubing<a href="#3x3-cubing" class="hash-link" aria-label="Direct link to 3x3 Cubing" title="Direct link to 3x3 Cubing">​</a></h2><p>Broke my own record today. Best solve time yet = 1:33.01</p>]]></content>
+        <category label="work journals" term="work journals"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[$10M+ Businesses for Grabs]]></title>
         <id>https://kathy.works/multimillion-dollar-businesses-for-grabs</id>
