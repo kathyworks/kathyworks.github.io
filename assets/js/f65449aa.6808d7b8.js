@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[7488],{1486:s=>{s.exports=JSON.parse('{"permalink":"/tags/brain-journals","page":1,"postsPerPage":3,"totalPages":1,"totalCount":3,"blogDescription":"Kathy builds","blogTitle":"Kathy builds"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[6247],{5240:a=>{a.exports=JSON.parse('{"label":"work journals","permalink":"/tags/work-journals","allTagsPath":"/tags","count":1}')}}]);

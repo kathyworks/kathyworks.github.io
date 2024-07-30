@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[1609],{7166:a=>{a.exports=JSON.parse('{"label":"brain journals","permalink":"/tags/brain-journals","allTagsPath":"/tags","count":3}')}}]);
