@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkathy_works=self.webpackChunkkathy_works||[]).push([[964],{8866:a=>{a.exports=JSON.parse('[{"label":"brain journals","permalink":"/tags/brain-journals","count":3},{"label":"zero and won","permalink":"/tags/zero-and-won","count":1},{"label":"final static","permalink":"/tags/final-static","count":6}]')}}]);
